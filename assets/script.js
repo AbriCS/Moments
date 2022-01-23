@@ -20,10 +20,6 @@ $("#15-hour .description").val(localStorage.getItem("15-hour"));
 $("#16-hour .description").val(localStorage.getItem("16-hour"));
 $("#17-hour .description").val(localStorage.getItem("17-hour"));
 $("#18-hour .description").val(localStorage.getItem("18-hour"));
-$("#19-hour .description").val(localStorage.getItem("19-hour"));
-$("#20-hour .description").val(localStorage.getItem("20-hour"));
-$("#21-hour .description").val(localStorage.getItem("21-hour"));
-$("#22-hour .description").val(localStorage.getItem("22-hour"));
 });
 
 /* current date  */  
