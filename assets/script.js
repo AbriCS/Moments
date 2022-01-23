@@ -1,6 +1,6 @@
 
 let userInput = $("userInput");
-let textBox = $("textarea");
+let textArea = $("textarea");
 
 $(document).ready(function () {
 $(".saveBtn").on("click",function() {
@@ -22,30 +22,26 @@ $("#17-hour .description").val(localStorage.getItem("17-hour"));
 $("#18-hour .description").val(localStorage.getItem("18-hour"));
 $("#19-hour .description").val(localStorage.getItem("19-hour"));
 $("#20-hour .description").val(localStorage.getItem("20-hour"));
-
-
-
-
+$("#21-hour .description").val(localStorage.getItem("21-hour"));
+$("#22-hour .description").val(localStorage.getItem("22-hour"));
 });
-
-
 
 /* current date  */  
 $("#currentDay").text(moment().format("dddd MMM Do YYYY"))
 
 
 /* current time */
-let currentHour = moment().hour();
+let now = moment().hour();
 
 /* change text area color based on the current time*/
 let colour = function () {
 $(".time-block").each(function () {
-    let hourBlock= parseInt($(this).attr("id"));
-    if (hourBlock < currentHour) {
+    let Timeframe= parseInt($(this).attr("id"));
+    if (Timeframe < now) {
         $(this).addClass("past");
         console.log ("working lines 12-16")
     }else if
-    (hourBlock === currentHour) {
+    (Timeframe === now) {
         $(this).removeClass("past");
         $(this).addClass("present");
         console.log ("Lines 18-21 working")
@@ -59,8 +55,3 @@ $(".time-block").each(function () {
 
 };
 colour();
-
-/*
-in event listener use this. to target the hour ID and text are class description
-
-to declare a variable eg hour ID this.parent().attrid()*/
