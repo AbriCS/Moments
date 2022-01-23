@@ -30,9 +30,7 @@ the planner identifies identifies the current timeslot and differentiates this f
 - Clarify the acceptance criteria.
  <br><br>
 
-<iframe width="420" height="315"
-src="https://youtu.be/kchAfXIwHr4">
-</iframe>
+
  <p> 
  The image below shows a section of the Planner.
  </p>
@@ -40,6 +38,8 @@ src="https://youtu.be/kchAfXIwHr4">
 <img src="./assets/images/Scheduler.jpeg"/>
 
 <br><br>
+
+<source src=>
 ### Executing program
 
 - Log into Github
