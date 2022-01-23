@@ -66,7 +66,7 @@ For advice on common problems or issues related to this project, please contact 
 ## Version History
 
 - <b>0.2  The Latest<b>
-    - Click [here](https://abrics.github.io/Moments) for the final release. 2022/01/22.
+    - Click [here](https://abrics.github.io/Moments/) for the final release. 2022/01/22.
 - 0.1
   - Initial Release 2022/01/20
 <br><br>
