@@ -1,4 +1,6 @@
 
+let userInput = $("userInput");
+let textBox = $("textarea");
 
 $(document).ready(function () {
 $(".saveBtn").on("click",function() {
@@ -19,10 +21,6 @@ $("#16-hour .description").val(localStorage.getItem("16-hour"));
 $("#17-hour .description").val(localStorage.getItem("17-hour"));
 
 });
-
-
-
-
 
 
 
@@ -54,9 +52,9 @@ $(".time-block").each(function () {
 });
 
 };
+colour();
 
-
-/*event listener for save btn
+/*
 in event listener use this. to target the hour ID and text are class description
-two variable one for id and one for 
+
 to declare a variable eg hour ID this.parent().attrid()*/
