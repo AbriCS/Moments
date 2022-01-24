@@ -30,7 +30,7 @@ the planner identifies identifies the current timeslot and differentiates this f
 - Clarify the acceptance criteria.
  <br><br>
 
-
+<iframe src='//gifs.com/embed/work-scheduler-pZB4P1' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
  <p> 
  The image below shows a section of the Planner.
  </p>
@@ -39,7 +39,7 @@ the planner identifies identifies the current timeslot and differentiates this f
 
 <br><br>
 
-<source src=>
+<video src='your URL here' width=180/>
 ### Executing program
 
 - Log into Github
