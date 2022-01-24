@@ -29,8 +29,6 @@ the planner identifies identifies the current timeslot and differentiates this f
 - Read the Brief
 - Clarify the acceptance criteria.
  <br><br>
-
-<iframe src='//gifs.com/embed/work-scheduler-pZB4P1' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
  <p> 
  The image below shows a section of the Planner.
  </p>
