@@ -12,7 +12,8 @@ They are then offered hourly timeslots in which to book meetings and activities.
 
 ## Functionality
 
-the planner identifies identifies the current timeslot and differentiates this from the past and future timeslots by colour;
+the planner identifies identifies the current timeslot and differentiates this from the past and 
+future timeslots by colour;
 
 - Red   = Current Hour Timeslot
 - Grey  = Past Hour Timeslots
@@ -20,7 +21,8 @@ the planner identifies identifies the current timeslot and differentiates this f
 
 
 ```
- When the user presses the saved button their appointment is available to view when they return to the planner at a later time.
+ When the user presses the saved button their appointment is available to view when they return to 
+ the planner at a later time.
 
  ```
 
