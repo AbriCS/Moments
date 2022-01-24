@@ -37,7 +37,8 @@ the planner identifies identifies the current timeslot and differentiates this f
 
 <br><br>
 
-<video src='your URL here' width=180/>
+<video src='https://youtu.be/kchAfXIwHr4' width=180/>
+<br>
 ### Executing program
 
 - Log into Github
