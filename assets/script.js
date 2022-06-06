@@ -4,8 +4,10 @@ let textArea = $("textarea");
 
 $(document).ready(function () {
 $(".saveBtn").on("click",function() {
-    let = userInput = $(this).sibling(".description").val();
+    let = userInput = $(this).siblings(".description").val();
     let = time = $(this).parent().attr("id");
+    console.log(userInput, time)
+    
     localStorage.setItem(time, userInput);
 })
 
