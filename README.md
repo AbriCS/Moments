@@ -48,7 +48,7 @@ future timeslots by colour;
 ## Walkthrough Video
 Below is the link to an explanatory video about how to use the application. Follow the steps to add content to your Moments calender.
 
-[Video of Deployed App in use](https://youtu.be/n80RRNS1k64)
+[Video of Deployed App in use](https://youtu.be/kchAfXIwHr4)
 
 
 ## Screenshot
