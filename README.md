@@ -5,8 +5,9 @@
 - [Description](#description)
 - [Functionality](#functionality)
 - [Executing the Program](#executing-program)
-- [Walkthrough Video](#walkthrough-video)
 - [Screenshot](#screenshot)
+- [Walkthrough Video](#walkthrough-video)
+- [Deployed App](#deployed-app)
 - [Contact Information](#contact)
 - [Acknowledgments](#acknowledgments)
 
@@ -44,18 +45,22 @@ future timeslots by colour;
 - Use 'git add .',  followed by 'git commit -m 
   "notes"', then 'git push'
 
+## Screenshot
+This is a screenshot of the output.
+
+[Rendered Application](./assets/images/Calender.png)
 
 ## Walkthrough Video
 Below is the link to an explanatory video about how to use the application. Follow the steps to add content to your Moments calender.
 
-[Video of Deployed App in use](https://youtu.be/kchAfXIwHr4)
+[Video of Deployed App in use](https://drive.google.com/file/d/1ezlhfpw1uNfhB8slteBvuH9tzFr-HM1o/view?usp=sharing)
 
 
-## Screenshot
-This is a screenshot of the output.
+## Deployed App
+Why not try it for yourself.
 
-[Rendered Application](./assets/images/Scheduler.jpeg)
-
+[Click this link](https://abrics.github.io/Moments/)
+to launch the application.
 
 ## Contact
 Email Address: AbriCSltd@gmail.com
